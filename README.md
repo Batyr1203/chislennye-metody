@@ -5,3 +5,5 @@
    - Базовая часть (homework3)
    - Супербонус (superBonus) <br>
           и картинки-примеры
+4. Уравнения переноса и теплопроводности (homework4)
+   -  'transfer.gif', 'thermal.gif'
